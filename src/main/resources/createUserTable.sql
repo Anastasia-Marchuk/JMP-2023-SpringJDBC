@@ -1,0 +1,1 @@
+CREATE TABLE User (id int PRIMARY KEY, Name varchar(255), Surname varchar(255), Birthday Date);

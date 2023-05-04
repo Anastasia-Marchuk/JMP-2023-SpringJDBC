@@ -1,0 +1,13 @@
+com/jmp2023/amarchuk/SpringJDBC/DAO/UserDAOImpl.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/FriendshipDAOImpl.class
+com/jmp2023/amarchuk/SpringJDBC/Model/Likes.class
+com/jmp2023/amarchuk/SpringJDBC/Model/Friendship.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/SocialDAOImpl.class
+com/jmp2023/amarchuk/SpringJDBC/Model/Posts.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/PostsDAO.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/UserDAO.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/LikesDAOImpl.class
+com/jmp2023/amarchuk/SpringJDBC/Model/User.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/LikesDAO.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/PostsDAOImpl.class
+com/jmp2023/amarchuk/SpringJDBC/DAO/FriendshipDAO.class

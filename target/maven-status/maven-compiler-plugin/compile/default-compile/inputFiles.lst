@@ -1,0 +1,14 @@
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/Model/Likes.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/FriendshipDAO.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/Model/Posts.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/LikesDAOImpl.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/UserDAOImpl.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/Model/Friendship.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/FriendshipDAOImpl.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/Model/User.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/PostsDAOImpl.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/SocialDAOImpl.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/UserDAO.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/SpringApp.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/PostsDAO.java
+/home/anastasia/Anastasia_Marchuk/JMP-2023-SpringJDBC/src/main/java/com/jmp2023/amarchuk/SpringJDBC/DAO/LikesDAO.java

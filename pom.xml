@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jmp2023.amarchuk.SpringJDBC</groupId>
+    <artifactId>SpringJDBC</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+        <!-- Spring -->
+        <spring-framework.version>4.0.2.RELEASE</spring-framework.version>
+
+        <!-- Logging -->
+        <logback.version>1.0.13</logback.version>
+        <slf4j.version>1.7.5</slf4j.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>${spring-framework.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>${spring-framework.version}</version>
+        </dependency>
+
+        <!-- Spring JDBC Support -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>${spring-framework.version}</version>
+        </dependency>
+
+        <!-- MySQL Driver -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.0.5</version>
+        </dependency>
+
+        <!-- Logging with SLF4J & LogBack -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>${logback.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.dbunit</groupId>
+            <artifactId>dbunit</artifactId>
+            <version>2.7.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+<!--    <Loggers>-->
+
+<!--        <Logger name="org.springframework.jdbc.core" level="trace" additivity="false">-->
+<!--            <appender-ref ref="file-log" />-->
+<!--            <appender-ref ref="console" />-->
+<!--        </Logger>-->
+
+<!--        <Root level="info" additivity="false">-->
+<!--            <appender-ref ref="file-log" />-->
+<!--            <appender-ref ref="console" />-->
+<!--        </Root>-->
+<!--    </Loggers>-->
+
+
+
+</project>
+
